@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently working with **Flutter** as a Mobile Developer
 
-- 🎯 I’m interested in and currently learning, also working with **Unity**, **Godot** primarily in **2D Game Developement**, maybe **3D**
+- 🎯 I’m interested in and currently learning, also working with **Unity**, **Godot** primarily in **2D Game Development**, maybe **3D**
 
 - 📫 How to reach me: **kai.dev.t3@gmail.com**
 
-- ⚡ What I like to do: **Piano** and **Game Developement**
+- ⚡ What I like to do: **Piano**, **Creating Pixel Art** and **Developing Indie Game**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
