@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working with **Flutter** as a Mobile Developer
 
-- 🎯 I’m interested in and currently learning, also working with **Unity**, **Godot** mainly in **2D Game**, maybe **3D**
+- 🎯 I’m interested in and currently learning, also working with **Unity**, **Godot** primarily in **2D Game Developement**, maybe **3D**
 
 - 📫 How to reach me: **kai.dev.t3@gmail.com**
 
