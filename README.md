@@ -15,7 +15,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kai-2001-d03m01y24/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kai-2001-d03m01y24/)
 [![image](https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kai.2001.asd/)
 [![image](https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0144c544a801cdddf7)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=facebook&logoColor=white)](mailto:kai.t3.dev@gmail.com)
