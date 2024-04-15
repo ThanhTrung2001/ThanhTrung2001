@@ -8,7 +8,7 @@
 
 - 🎯 I’m interested in and currently learning, also working with **Unity**, **Godot** primarily in **2D Game Development**, maybe **3D**
 
-- 📫 How to reach me: **kai.dev.t3@gmail.com**
+- 📫 How to reach me: **kai.t3.dev@gmail.com**
 
 - ⚡ What I like to do: **Piano**, **Creating Pixel Art** and **Developing Indie Game**
 
