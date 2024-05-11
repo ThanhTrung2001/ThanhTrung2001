@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kai <img height="40" src="https://github.com/ThanhTrung2001/ThanhTrung2001/assets/75150646/0bbe517c-d6e2-4af9-9b0d-028153c13222"></h1>
+<h1 align="center">Hi 👋, I'm TOKI </h1>
 
 <h3 align="center">A Full-stack, Mobile & Solo Game Developer from VietNam</h3>
 
