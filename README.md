@@ -2,7 +2,7 @@
 
 <h3 align="center">A Full-stack, Mobile & Solo Game Developer from VietNam</h3>
 
-- 🔭 I’m currently working with **HTML - CSS - Javascript**, **Angular**, **ASP.NET** as a Full-stack Web Developer
+- 🔭 I’m currently working with **Angular** & **ASP.NET** as a Full-stack Web Developer
 
 - 🌱 I’m currently working with **Flutter** as a Mobile Developer
 
