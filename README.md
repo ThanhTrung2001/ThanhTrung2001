@@ -8,17 +8,17 @@
 
 - 🎯 I’m interested in and currently learning, also working with **Unity**, **Godot** primarily in **2D Game Development**, maybe **3D**
 
-- 📫 How to reach me: **kai.t3.dev@gmail.com**
+- 📫 How to reach me: **Dev.toki.2001@gmail.com**
 
 - ⚡ What I like to do: **Piano**, **Creating Pixel Art** and **Developing Indie Game**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kai-2001-d03m01y24/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toki2001/)
 [![image](https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kai.2001.asd/)
 [![image](https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0144c544a801cdddf7)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=facebook&logoColor=white)](mailto:kai.t3.dev@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=facebook&logoColor=white)](mailto:dev.toki.2001.dev@gmail.com)
 [![image](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/678853339328544772)
   
 </div>
@@ -87,6 +87,6 @@
 
 ------
 
-[Kai - ThanhTrung2001](https://github.com/ThanhTrung2001)
+[TOKI - ThanhTrung2001](https://github.com/ThanhTrung2001)
 
-Last Edited on: 24/03/2024
+Last Edited on: 11/05/2024
