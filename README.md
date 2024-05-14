@@ -54,6 +54,39 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> 
   </a> 
   <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.sTOM - ThanhTrung2001](https://github.com/ThanhTrung2001)
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/> 
+  </a>
+</p>
+
+<h3 align="center">Game Developement Techs & Tools</h3>
+
+<p align="center"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="30" height="30"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="30" height="30"/> 
+  </a> 
+  <a href="https://www.figma.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="30" height="30"/> 
+  </a>  
+</p>
+
+<h3 align="center">Mobile Developement Techs & Tools</h3>
+
+<p align="center"> 
+  <a href="https://flutter.dev/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30"/> 
+  </a>
+</p>
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ThanhTrung2001&theme=yeblu&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhTrung2001&theme=yeblu&layout=compact" />
+</p>
+
+------
+
+[TOM - ThanhTrung2001](https://github.com/ThanhTrung2001)
 
 Last Edited on: 11/05/2024
