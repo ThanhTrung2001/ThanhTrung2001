@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TOM </h1>
+<h1 align="center">Hi 👋, I'm Trung & My nickname is TOKEN </h1>
 
 <h3 align="center">A Full-stack, Mobile & Solo Game Developer from VietNam</h3>
 
@@ -87,6 +87,6 @@
 
 ------
 
-[TOM - ThanhTrung2001](https://github.com/ThanhTrung2001)
+[TOKEN - ThanhTrung2001](https://github.com/ThanhTrung2001)
 
 Last Edited on: 11/05/2024
