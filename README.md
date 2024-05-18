@@ -8,7 +8,7 @@
 
 - 🎯 I’m interested in and currently learning, also working with **Unity**, **Godot** primarily in **2D Game Development**, maybe **3D**
 
-- 📫 How to reach me: **Work.Dev.Tom@gmail.com**
+- 📫 How to reach me: **thanhtrungtran13@gmail.com**
 
 - ⚡ What I like to do: **Piano**, **Creating Pixel Art** and **Developing Indie Game**
 
