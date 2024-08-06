@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Trung & My nickname is SPECTER </h1>
+<h1 align="center">Hi 👋, I'm Trung & My nickname is Clover </h1>
 
-<h3 align="center">A Full-stack, Mobile & Solo Game Developer from VietNam</h3>
+<h3 align="center">A Full-stack Developer, DevOps Engineer, Mobile & Solo Game Developer from VietNam</h3>
 
 - 🔭 I’m currently working with **Angular** & **ASP.NET** as a Full-stack Web Developer
 
@@ -86,6 +86,6 @@
 
 ------
 
-[SPECTER - ThanhTrung2001](https://github.com/ThanhTrung2001)
+[CLOVER - ThanhTrung2001](https://github.com/ThanhTrung2001)
 
 Last Edited on: 24/07/2024
