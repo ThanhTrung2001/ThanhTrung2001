@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trung & My nickname is Clover </h1>
+<h1 align="center">Hi 👋, I'm Trung & My English Nickname is Ethan </h1>
 
 <h3 align="center">A Full-stack Developer, DevOps Engineer, Mobile & Solo Game Developer from VietNam</h3>
 
@@ -15,7 +15,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom2001/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan2001f/)
 [![image](https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tom.2001.asd/)
 [![image](https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0144c544a801cdddf7)
 [![image](https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/678853339328544772)
@@ -86,6 +86,6 @@
 
 ------
 
-[CLOVER - ThanhTrung2001](https://github.com/ThanhTrung2001)
+[ETHAN - ThanhTrung2001](https://github.com/ThanhTrung2001)
 
 Last Edited on: 24/07/2024
