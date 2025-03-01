@@ -8,9 +8,9 @@
 
 - 🎯 I’m interested in and currently learning, also working with **Unity**, **Godot** primarily in **2D Game Development (Pixel Art)**, maybe **3D**
 
-- 📫 How to reach me: **thanhtrungtran13@gmail.com**
+- 📫 How to reach me: **thanhtrungtran13@gmail.com** or **ethan.thanhtrung.indh@gmail.com**
 
-- ⚡ What I like to do: **Perfect**, **One Man Army**, **Piano**, **Creating Pixel Art** and **Developing Indie Game**
+- ⚡ What I like to do: **Anything**, **Special:** Piano, Pixel Art and Learn everything
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
