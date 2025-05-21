@@ -1,14 +1,11 @@
-<h1 align="center">Hi 👋, I'm Trung & My English Nickname is Ethan </h1>
+<h1 align="center">Hi 👋, I'm Trung & You can call me Ethan.</h1>
 
 <h3 align="center">A Full-stack (with DevOps) Developer, Mobile & Solo Game Developer from VietNam</h3>
-
-- 🔭 With Web, I’m currently working with **Angular**, **React** for FrontEnd & **ASP.NET**, **NodeJS** for BackEnd
-
-- 🌱 With Mobile, I’m currently using **Flutter**
+<h3 align="center">I define my final goal as an indie hacker + indie game dev</h3>
 
 - 🎯 I’m interested in and currently learning, also working with **Unity**, **Godot** primarily in **2D Game Development (Pixel Art)**, maybe **3D**
 
-- 📫 How to reach me: **thanhtrungtran13@gmail.com** or **ethan.thanhtrung.indh@gmail.com**
+- 📫 How to reach me: **thanhtrungtran13@gmail.com**
 
 - ⚡ What I like to do: **Anything**, **Special:** Piano, Pixel Art and Learn everything
 
@@ -88,4 +85,4 @@
 
 [ETHAN - ThanhTrung2001](https://github.com/ThanhTrung2001)
 
-Last Edited on: 24/07/2024
+Last Edited on: 05/21/2025
